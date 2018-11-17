@@ -2,7 +2,7 @@
 
 I publish this, to get some feedback, to help others and to place some points, I miss in Elm.
 
-I had a long list, where I want to display date or time-values in the local language and timezone. I don't want to reinvent the wheel, as the [ICU-Project](http://site.icu-project.org/) has alread done it and the integration in the Web-browsers has started. My problem is solved by the Javascript method Intl.DateTimeFormat().format()
+I had a long list, where I want to display date or time-values in the local language and timezone. I don't want to reinvent the wheel, as the [ICU-Project](http://site.icu-project.org/) has alread done it and the integration in the web-browsers has started. My problem is solved by the Javascript method Intl.DateTimeFormat().format()
 
 To get this in Elm, I found ports to complicated to use, due to the mass of values, so I decided to create a HTML custom element.
 
