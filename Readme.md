@@ -28,7 +28,7 @@ The code also show some things I miss in Elm, or I have not understood:
 
 * The possibility to call pure (only) Javascript functions/methods direct, at least the ones form the core language.
 
-* I would prefer to use Dicts instead of some case stucts for handling the options, but custom types are not sortable in Elm, which is a requirement for using them as a key in Dicts.
+* I would prefer to use `Dict`s instead of some case structs for handling the options, but custom types are not sortable in Elm, which is a requirement for using them as a key in Dicts.
 
 * Combining custom types to a new flat type (as you can union sets)
 
