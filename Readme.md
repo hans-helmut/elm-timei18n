@@ -1,4 +1,4 @@
-# Displaying localisised Date or Time in Elm
+# Displaying localised Date or Time in Elm
 
 I publish this, to get some feedback, to help others and to place some points, I miss in Elm.
 
