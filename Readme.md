@@ -20,7 +20,7 @@ I named my variables after the [Javascript options to the used method](https://d
 
 For some usage-examples see Main.elm, which is based on the Elm [time example](https://guide.elm-lang.org/effects/time.html), but displays times from some different counties, where I have never been and in languages I do not understand.
 
-You can build everything by running build.sh and open [index.html](./index.html).
+You can build everything by running build.sh and open [index.html](./index.html). Or open it [direct on Github] (http://htmlpreview.github.io/?https://github.com/hans-helmut/elm-timei18n/blob/master/index.html)
 
 Please feel free, to comment the code.
 
